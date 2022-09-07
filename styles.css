@@ -1,0 +1,22 @@
+body {
+    margin: 0 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f0f0f0;
+    height: 100vh;
+    overflow: auto;
+  }
+
+  /* change the width here to change the canvas size */
+  #large-container {
+    width: 300vw;
+    height: 100vh;
+    overflow: hidden;
+  }
+
+  main {
+    width: 100vw;
+    height: 100vh;
+    overflow: auto;
+    margin: 0px;
+  }
