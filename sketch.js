@@ -20,6 +20,7 @@ function preload(){
 
 function setup () {
     var canv = createCanvas(window.innerWidth, window.innerHeight);
+    pixelDensity(1)
     var canvas = document.getElementsByTagName("canvas")[0];
     console.log(document, canvas);
     // console.log(gsap);
