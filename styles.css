@@ -9,7 +9,7 @@ body {
 
   /* change the width here to change the canvas size */
   #large-container {
-    width: 300vw;
+    width: 100vw;
     height: 100vh;
     overflow: hidden;
   }
